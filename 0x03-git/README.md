@@ -1,1 +1,1 @@
-Git folder
+Git folder has been changed
