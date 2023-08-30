@@ -1,1 +1,1 @@
-Git folder whatever
+Git folder has been changed
